@@ -1,0 +1,48 @@
+
+/* tag selector  */
+h1{
+    background-color: aquamarine;
+}
+
+p{
+    background-color: gold;
+}
+
+  /* class selector  */
+  .ft-med{
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg-pink{
+    background-color: pink;
+    color: rebeccapurple;
+}
+
+
+  /* id selector */
+  #name{
+    color: springgreen;
+    font-size: 25px;
+}
+
+
+.box{
+    width: 170px;
+    height: 150px;
+    float: left;
+    background-color: brown;
+    /* background-image: url("./../assets/1525423.png"); */
+    background-size: 100px;
+    background-repeat:  repeat-y;
+    border-left: 2px dashed brown;
+    
+}
+.float-left{
+    float: left;
+    width: 150px;
+    background-color: yellow;
+}
+
+.text-pad{
+    padding:10px
+}

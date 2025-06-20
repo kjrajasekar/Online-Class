@@ -1,0 +1,30 @@
+
+
+h2{
+    background-color: aqua;
+}
+
+@media screen and (max-width:1200px) {
+    h2{
+        background-color: yellow;
+    }
+    
+}
+@media screen and (max-width:992px) {
+    h2{
+        background-color: orange;
+    }
+    
+}
+@media screen and (min-width:768px) {
+    h2{
+        background-color: green;
+    }
+    
+}
+@media screen and (max-width:500px) {
+    h2{
+        background-color: red;
+    }
+    
+}
